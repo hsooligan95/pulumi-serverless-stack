@@ -1,0 +1,1 @@
+{"description":"A serverless API (API Gateway + Lambda + DynamoDB) defined with Pulumi in TypeScript","name":"pulumi-serverless-stack","runtime":{"name":"nodejs","options":{"packagemanager":"npm","typescript":true}}}
